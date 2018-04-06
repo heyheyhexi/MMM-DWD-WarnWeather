@@ -73,7 +73,7 @@ Module.register("MMM-DWD-WarnWeather", {
 
 		var header = document.createElement("header");
 		if (this.community.hasOwnProperty('properties')){
-			header.innerHTML = 'TEST';
+			header.innerHTML = 'Wetterwarnungen';
 			if (this.config.displayRegionName && this.loaded) {
 				header.innerHTML += ' für:<br>' + this.community.properties.NAME;
 			}
