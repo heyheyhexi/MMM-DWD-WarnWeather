@@ -4,7 +4,7 @@ This a module for the [MagicMirror](https://github.com/MichMich/MagicMirror). It
 
 ## Preview
 
-![](https://github.com/LukeSkywalker92/MMM-DWD-WarnWeather/blob/master/screenshot.png?raw=true)
+![](https://github.com/heyheyhexi/MMM-DWD-WarnWeather/blob/master/screenshot.png?raw=true)
 
 ## Installation
 1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/LukeSkywalker92/MMM-DWD-WarnWeather.git`. A new folder will appear, navigate into it.
